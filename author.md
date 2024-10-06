@@ -1,2 +1,3 @@
 Мухутдинов Батыр Айбулатович
-Some personal info: smt...
+
+Some info
